@@ -1,0 +1,1 @@
+// Declaro las variables del DOM
